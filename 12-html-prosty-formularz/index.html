@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <title>12-html-prosty-formularz</title>
+</head>
+<body>
+    <div id="formularz">
+        <div class="zig-zag"><h1>Formularz zapisu</h1></div>
+        <form method="POST" action="https://formspree.io/siragata@op.pl">
+            <label for="imie">Imię</label><br>
+            <input type="text" id="imie" name="imie" placeholder="Podaj Twoje imię"><br>
+            
+            <label for="nazwisko">Nazwisko</label><br>
+            <input type="text" id="nazwisko" name="nazwisko" placeholder="Podaj Twoje nazwisko"><br>
+            
+            
+<!-- Dodatkowe elementy nie objęte zadaniem "12-html-prosty-formularz" - START -->
+            <input id="warszawa" type="radio" name="miasto" value="warszawa">  
+            <label for="warszawa">Warszawa</label>  
+            
+            <input id="krakow" type="radio" name="miasto" value="krakow">  
+            <label for="krakow">Kraków</label>  
+            
+            <input id="gdansk" type="radio" name="miasto" value="gdansk">  
+            <label for="gdansk">Gdańsk</label>
+<!-- Dodatkowe elementy nie objęte zadaniem "12-html-prosty-formularz" - END -->     
+           
+                         
+            <button type="submit" >Wyślij<span></span><span></span><span></span><span></span></button>
+        </form>
+    </div>
+</body>
+</html>
