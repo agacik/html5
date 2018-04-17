@@ -1,0 +1,16 @@
+Stwórz plik index.html, a w nim podstawow¹ strukturê HTML5.
+
+Wewn¹trz body dodaj sekcjê article, a w niej
+
+1. G³ówny tytu³
+2. Paragraf z przyk³adow¹ treœci¹ (najlepiej u¿yæ skrótu Emmeta Lorem)
+3. Podtytu³
+4. Kolejny paragraf
+5. Podtytu³ 
+6. Przyk³adowy obrazek
+
+Nad ka¿dym z tych elementów dodaj komentarz. Umieœæ w nim nazwê poszczególnej sekcji, np. paragraf.
+
+Pamiêtaj o prawid³owej hierarchii nag³ówków.
+
+Plik wgraj do zdalnego repozytorium, a nastêpnie podeœlij link do sprawdzenia.
