@@ -1,0 +1,13 @@
+Opis
+
+Stwórz podstawow¹ strukturê HTML5, a nastêpnie wewn¹trz body dodaj nastêpuj¹ce elementy:
+
+1. Wypunktowana lista linków 
+2. Dwa przyciski w jednej linii oraz jeden poni¿ej 
+3. Obrazek
+
+Dodaj równie¿ nag³ówki - g³ówny tytu³ "Æwiczenia", podtytu³ "HTML5" oraz nag³ówki do ka¿dego z tych elementów (pamiêtaj o prawid³owej hierarchii).
+
+Pogl¹dowy wygl¹d w za³¹czonej grafice.
+
+Plik wgraj do repozytorium na github.com i podeœlij link do sprawdzenia.
